@@ -77,3 +77,22 @@ getInCar('Mo');
 
 console.log('Enough seats?', enoughSeats())
 console.log('Are We Ready for Trip?', readyForTrip());
+
+// ************************************
+// Practical TeamWork:IMPOSTER SYNDROME
+// ************************************
+// Also refrerred as imposter experience
+// You may feel like giving up and an inability to acknowledge one's own growth.
+// Also question your self worth based on solely trouble with new concept.
+// Programming is largely an endevour in trial and error. You will make mistakes. It's part of the process.
+
+// It is highly demovativating, typically hiding what they don't know.
+// They have alot skill building 
+
+// How to avoid Imposter Syndrome:
+// Avoid comparsions to others.Work on improving and measure yourselves.
+// Measure yourself against yourself
+// Won't be able to excute all your problems and mine your Mistakes
+// You will learn best by making mistakes and learning from them.Instead of getting everything right at your first try.
+// Throw away your guilt. It will add stress and distractions.
+// Create good habit. Seek people who are honest or engage with others.
